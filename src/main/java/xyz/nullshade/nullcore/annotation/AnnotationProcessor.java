@@ -22,6 +22,7 @@ public class AnnotationProcessor {
     public void register() {
         registerCommands();
         registerListeners();
+
     }
 
 
